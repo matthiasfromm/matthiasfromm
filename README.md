@@ -16,6 +16,7 @@ I'm Matthias, a 40+ years old problem solver, entrepreneur, podcaster and dad fr
 - 👨‍💻 HTML, CSS, SCSS
 - ⚙️ Python, Astro, React
 - 💽 MySQL, SQL, PostgreSQL
+- 💽 Google Cloud Platform
 - 🎧 Recording, Mixing, Mastering
 
 ## Contact
