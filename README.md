@@ -3,7 +3,7 @@
 ## Hey! 👋
 I'm Matthias, a 40+ years old problem solver, entrepreneur, podcaster and dad from Germany.
 
-- 🧭 Managing Partner and CEO at [brainshuttle GmbH](https://brainshuttle.com)
+- 🧭 Co-Owner and CEO at [brainshuttle GmbH](https://brainshuttle.com)
 
 - 👥 Founder and Core team member at [@OpenSciRadio](https://github.com/OpenScienceRadio)
 
