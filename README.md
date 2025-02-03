@@ -21,7 +21,6 @@ I'm Matthias, a 40+ years old problem solver, entrepreneur, podcaster and dad fr
 
 ## Contact
 - [mfromm.de](https://mfromm.de)
-- [@matthiasfromm](https://twitter.com/matthiasfromm) on Twitter
 - [@matthiasfromm](https://de.linkedin.com/in/matthiasfromm) on LinkedIn
 
 
